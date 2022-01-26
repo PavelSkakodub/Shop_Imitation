@@ -1,0 +1,8 @@
+C:\Users\win10\source\repos\AsyncProgram_1\bin\Debug\AsyncProgram_1.exe.config
+C:\Users\win10\source\repos\AsyncProgram_1\bin\Debug\AsyncProgram_1.exe
+C:\Users\win10\source\repos\AsyncProgram_1\bin\Debug\AsyncProgram_1.pdb
+C:\Users\win10\source\repos\AsyncProgram_1\obj\Debug\AsyncProgram_1.csproj.AssemblyReference.cache
+C:\Users\win10\source\repos\AsyncProgram_1\obj\Debug\AsyncProgram_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\win10\source\repos\AsyncProgram_1\obj\Debug\AsyncProgram_1.csproj.CoreCompileInputs.cache
+C:\Users\win10\source\repos\AsyncProgram_1\obj\Debug\AsyncProgram_1.exe
+C:\Users\win10\source\repos\AsyncProgram_1\obj\Debug\AsyncProgram_1.pdb
